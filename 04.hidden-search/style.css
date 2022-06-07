@@ -1,0 +1,58 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(90deg, #7d5fff, #7158e2);
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.search {
+  position: relative;
+  height: 50px;
+}
+
+.search .input {
+  background-color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 18px;
+  padding: 15px;
+  width: 50px;
+  height: 50px;
+  transition: width .3s ease;
+}
+
+.search .btn {
+  background-color: #fff;
+  font-size: 24px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  transition: transform .3s ease;
+}
+
+/* 获取焦点时 */
+.btn:focus,
+.input:focus {
+  outline: none;
+}
+
+.search.active .input {
+  width: 200px;
+}
+
+.search.active .btn {
+  transform: translateX(188px);
+}
