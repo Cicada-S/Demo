@@ -14,7 +14,7 @@ This is the main repository for all of the projects in the course.
 |  04  | [Hidden Search Widget](https://github.com/Cicada-S/Demo/tree/master/04.hidden-search) | [Live Demo](https://50projects50days.com/projects/hidden-search-widget/) |
 |  05  | [Blurry Loading](https://github.com/Cicada-S/Demo/tree/master/05.blurry-loading) | [Live Demo](https://50projects50days.com/projects/blurry-loading/) |
 |  06  | [Scroll Animation](https://github.com/Cicada-S/Demo/tree/master/06.scroll-animation) | [Live Demo](https://50projects50days.com/projects/scroll-animation/) |
-|  07  | [Split Landing Page](https://github.com/bradtraversy/50projects50days/tree/master/split-landing-page) | [Live Demo](https://50projects50days.com/projects/split-landing-page/) |
+|  07  | [Split Landing Page](https://github.com/Cicada-S/Demo/tree/master/07.split-landing-page) | [Live Demo](https://50projects50days.com/projects/split-landing-page/) |
 |  08  | [Form Wave](https://github.com/bradtraversy/50projects50days/tree/master/form-input-wave) | [Live Demo](https://50projects50days.com/projects/form-wave/) |
 |  09  | [Sound Board](https://github.com/bradtraversy/50projects50days/tree/master/sound-board) | [Live Demo](https://50projects50days.com/projects/sound-board/) |
 |  10  | [Dad Jokes](https://github.com/bradtraversy/50projects50days/tree/master/dad-jokes) | [Live Demo](https://50projects50days.com/projects/dad-jokes/) |
