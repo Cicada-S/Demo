@@ -3,8 +3,18 @@ const jokeBtn = document.getElementById('jokeBtn')
 
 jokeBtn.addEventListener('click', generateJoke)
 
-async function generateJoke() {
-  let results = await fetch('https://api.xygeng.cn/one').then(res => res.json())
+generateJoke()
 
-  jokeEl.innerText = results.data.content
+async function generateJoke() {
+  const config = {
+    headers: {
+      Accept: 'application/json'
+    }
+  }
+
+  let res = await fetch('https://api.xygeng.cn/one', config)
+
+  let { data } = await res.json()
+
+  jokeEl.innerText = data.content
 }
