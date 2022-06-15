@@ -16,7 +16,7 @@ This is the main repository for all of the projects in the course.
 |  06  | [Scroll Animation](https://github.com/Cicada-S/Demo/tree/master/06.scroll-animation) | [Live Demo](https://50projects50days.com/projects/scroll-animation/) |
 |  07  | [Split Landing Page](https://github.com/Cicada-S/Demo/tree/master/07.split-landing-page) | [Live Demo](https://50projects50days.com/projects/split-landing-page/) |
 |  08  | [Form Wave](https://github.com/Cicada-S/Demo/tree/master/08.form-input-wave) | [Live Demo](https://50projects50days.com/projects/form-wave/) |
-|  09  | [Sound Board](https://github.com/bradtraversy/50projects50days/tree/master/sound-board) | [Live Demo](https://50projects50days.com/projects/sound-board/) |
+|  09  | [Sound Board](https://github.com/Cicada-S/Demo/tree/master/09.sound-board) | [Live Demo](https://50projects50days.com/projects/sound-board/) |
 |  10  | [Dad Jokes](https://github.com/bradtraversy/50projects50days/tree/master/dad-jokes) | [Live Demo](https://50projects50days.com/projects/dad-jokes/) |
 |  11  | [Event Keycodes](https://github.com/bradtraversy/50projects50days/tree/master/event-keycodes) | [Live Demo](https://50projects50days.com/projects/event-keycodes/) |
 |  12  | [Faq Collapse](https://github.com/bradtraversy/50projects50days/tree/master/faq-collapse) | [Live Demo](https://50projects50days.com/projects/faq-collapse/) |
