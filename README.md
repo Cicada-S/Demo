@@ -18,7 +18,7 @@ This is the main repository for all of the projects in the course.
 |  08  | [Form Wave](https://github.com/Cicada-S/Demo/tree/master/08.form-input-wave) | [Live Demo](https://50projects50days.com/projects/form-wave/) |
 |  09  | [Sound Board](https://github.com/Cicada-S/Demo/tree/master/09.sound-board) | [Live Demo](https://50projects50days.com/projects/sound-board/) |
 |  10  | [Dad Jokes](https://github.com/Cicada-S/Demo/tree/master/10.dad-jokes) | [Live Demo](https://50projects50days.com/projects/dad-jokes/) |
-|  11  | [Event Keycodes](https://github.com/bradtraversy/50projects50days/tree/master/event-keycodes) | [Live Demo](https://50projects50days.com/projects/event-keycodes/) |
+|  11  | [Event Keycodes](https://github.com/Cicada-S/Demo/tree/master/11.event-keycodes) | [Live Demo](https://50projects50days.com/projects/event-keycodes/) |
 |  12  | [Faq Collapse](https://github.com/bradtraversy/50projects50days/tree/master/faq-collapse) | [Live Demo](https://50projects50days.com/projects/faq-collapse/) |
 |  13  | [Random Choice Picker](https://github.com/bradtraversy/50projects50days/tree/master/random-choice-picker) | [Live Demo](https://50projects50days.com/projects/random-choice-picker/) |
 |  14  | [Animated Navigation](https://github.com/bradtraversy/50projects50days/tree/master/animated-navigation) | [Live Demo](https://50projects50days.com/projects/animated-navigation/) |
