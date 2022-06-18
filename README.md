@@ -21,7 +21,7 @@ This is the main repository for all of the projects in the course.
 |  11  | [Event Keycodes](https://github.com/Cicada-S/Demo/tree/master/11.event-keycodes) | [Live Demo](https://50projects50days.com/projects/event-keycodes/) |
 |  12  | [Faq Collapse](https://github.com/Cicada-S/Demo/tree/master/12.faq-collapse) | [Live Demo](https://50projects50days.com/projects/faq-collapse/) |
 |  13  | [Random Choice Picker](https://github.com/Cicada-S/Demo/tree/master/13.random-choice-picker) | [Live Demo](https://50projects50days.com/projects/random-choice-picker/) |
-|  14  | [Animated Navigation](https://github.com/bradtraversy/50projects50days/tree/master/animated-navigation) | [Live Demo](https://50projects50days.com/projects/animated-navigation/) |
+|  14  | [Animated Navigation](https://github.com/Cicada-S/Demo/tree/master/14.animated-navigation) | [Live Demo](https://50projects50days.com/projects/animated-navigation/) |
 |  15  | [Incrementing Counter](https://github.com/bradtraversy/50projects50days/tree/master/incrementing-counter) | [Live Demo](https://50projects50days.com/projects/incrementing-counter/) |
 |  16  | [Drink Water](https://github.com/bradtraversy/50projects50days/tree/master/drink-water) | [Live Demo](https://50projects50days.com/projects/drink-water/) |
 |  17  | [Movie App](https://github.com/bradtraversy/50projects50days/tree/master/movie-app) | [Live Demo](https://50projects50days.com/projects/movie-app/) |
